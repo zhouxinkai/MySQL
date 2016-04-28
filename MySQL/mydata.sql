@@ -1,3 +1,7 @@
+mysql -u root -p database_name
+-- 登录数据库
+source 'C:\schema.sql'
+-- 在MySQL命令行执行一个sql文件
 create database mydata;
 --创建一个数据库mydata；
 use mydata;
